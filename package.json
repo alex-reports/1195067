@@ -1,0 +1,23 @@
+{
+  "name": "1195067",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-reports/1195067.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-reports/1195067/issues"
+  },
+  "homepage": "https://github.com/alex-reports/1195067#readme",
+  "devDependencies": {
+    "cssnano": "^7.0.6"
+  }
+}
